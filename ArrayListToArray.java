@@ -14,7 +14,7 @@ public class ArrayListToArray {
 		list.add(10);
 		list.add(600);
 		list.add(40);
-		
+		list.add(600);
 		Object [] object=list.toArray();
 		
 		for (Object obj : object) {
